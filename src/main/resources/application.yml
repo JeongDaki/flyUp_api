@@ -1,0 +1,8 @@
+spring:
+  application:
+    name:flyup
+  datasource:
+    url: jdbc:mysql:flyupdbinstance.ctqimo04i5to.ap-northeast-2.rds.amazonaws.com/FlyUp_DB
+    username: admin
+    password: qwerqwer
+    driver-class-name: com.mysql.jdbc.Driver
